@@ -1,11 +1,20 @@
-# `Recursive Realms`: Unleashing Knowledge, Powering Innovation 🌍🚀
+# 🚀 Novac Stack – Software que transforma negócios
 
-**Welcome to Recursive Realms' GitHub!** 🖥️
+**Criamos soluções digitais sob medida para empresas que querem escalar com tecnologia.**  
+Desenvolvemos sistemas **Web, Mobile e Desktop**, com foco em **performance, segurança, escalabilidade e experiência do usuário**.
 
-## Who We Are:
-Nested in the heart of innovation, Recursive Realms is composed of a seasoned team with over a decade of expertise in software development. We specialize in developing educational platforms and SaaS products designed to democratize knowledge and foster learning worldwide.
+---
 
-## Our Mission:
-Our goal is ambitious and clear: to empower individuals and organizations by providing cutting-edge educational tools and software solutions. From interactive courses to comprehensive SaaS applications, our commitment is facilitating accessible, practical learning and professional growth.
+## 💼 O que fazemos
+✅ **Design Sprint** – ideação rápida e prototipagem validada em até 2 semanas  
+✅ **Desenvolvimento Web & Mobile** – sistemas completos, integrados e multiplataforma  
+✅ **Consultoria Técnica** – apoio em arquitetura, escalabilidade e decisões estratégicas  
+✅ **Suporte Contínuo** – manutenção, updates e repasse para equipes internas
 
-🔗 _Explore our repositories to see our projects in action and learn more about how our solutions revolutionize learning and professional development!_
+---
+
+## 💡 Nosso diferencial
+Aliamos **tecnologia + estratégia** para **reduzir riscos, acelerar entregas e garantir resultados mensuráveis.**  
+Mais do que software: **entregamos soluções digitais que impulsionam negócios.**
+
+📫 **Entre em contato e transforme sua ideia em realidade!**
